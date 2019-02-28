@@ -1,6 +1,8 @@
-## Education
+# Education
 
 ### Miracosta Community College
+
+```markdown
 
 *Expected to graduate in 2019 with Associates in Computer Fundamentals*
 
@@ -26,24 +28,17 @@
 
 -Mobile Device Application Development (In Progress)
 
-### Markdown
+```
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Palomar College
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+*January 2013 - May 2013*
 
-- Bulleted
-- List
+**GPA: 3.0/4.0**
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+````
 
 [Link](url) and ![Image](src)
 ```
