@@ -2,8 +2,6 @@
 
 ### Miracosta Community College
 
-```markdown
-
 *Expected to graduate in 2019 with Associates in Computer Fundamentals*
 
 *August 2017 - May 2019*
@@ -26,29 +24,19 @@
 
 -Advanced C++Programming (In Progress)
 
--Mobile Device Application Development (In Progress)
+-Mobile Device Application Development (In Progress
 
-```
+
 
 ### Palomar College
-
-```markdown
 
 *January 2013 - May 2013*
 
 **GPA: 3.0/4.0**
 
-````
 
-[Link](url) and ![Image](src)
-```
+### Point Loma Nazarene University
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+*August 2012 - December 2012*
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ChristaKH/ChristaKH.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**GPA: 2.9/3.0**
