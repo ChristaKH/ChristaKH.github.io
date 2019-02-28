@@ -1,8 +1,30 @@
 ## Education
 
-You can use the [editor on GitHub](https://github.com/ChristaKH/ChristaKH.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Miracosta Community College
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+*Expected to graduate in 2019 with Associates in Computer Fundamentals*
+
+*August 2017 - May 2019*
+
+**GPA: 3.614/4.0**
+
+**Relevant Coursework:**
+
+-Introduction to Computer Science I - Beginning Java (A)
+
+-Introduction to Computer Science II - Advanced Java (A)
+
+-C++ Programming (A)
+
+-C# and the .Net Framework (A)
+
+-Computer Architecture and Assembly Language (B)
+
+-Data Structures and Algorithms (In Progress)
+
+-Advanced C++Programming (In Progress)
+
+-Mobile Device Application Development (In Progress)
 
 ### Markdown
 
