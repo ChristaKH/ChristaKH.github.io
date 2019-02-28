@@ -28,6 +28,7 @@
 
 
 
+
 ### Palomar College
 
 *January 2013 - May 2013*
@@ -35,8 +36,26 @@
 **GPA: 3.0/4.0**
 
 
+
+
 ### Point Loma Nazarene University
 
 *August 2012 - December 2012*
 
 **GPA: 2.9/3.0**
+
+
+# Notable Awards
+
+-President's List 2017 - 2018
+
+
+# Extracurricular
+
+-Computer Science Club - Executive Officer
+
+-Women in Computer Science Club - Secretary/Event Coordinator
+
+-SD Hacks Participant 2018
+
+-ACM ICPC Participant 2018
