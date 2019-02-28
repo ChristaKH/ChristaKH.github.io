@@ -59,3 +59,10 @@
 -SD Hacks Participant 2018
 
 -ACM ICPC Participant 2018
+
+
+
+# Contact Info
+[LinkedIn](www.linkedin.com/in/christa-hatch-61231914a)
+
+[Email](christahatch1994@gmail.com)
