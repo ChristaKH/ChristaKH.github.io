@@ -65,4 +65,4 @@
 # Contact Info
 [LinkedIn](www.linkedin.com/in/christa-hatch-61231914a)
 
-[Email](christahatch1994@gmail.com)
+Email: christahatch1994@gmail.com
