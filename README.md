@@ -29,6 +29,7 @@
 
 # Notable Awards
 -President's List 2017 - 2018
+- Miracosta College Annual Scholarship Recipient
 
 
 # Extracurricular
@@ -36,8 +37,6 @@
 - Women in Computer Science Club - Secretary/Event Coordinator
 - SD Hacks Participant 2018
 - ACM ICPC Participant 2018
-- Miracosta College Annual Scholarship Recipient
-
 
 
 # Contact Info
