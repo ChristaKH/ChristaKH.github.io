@@ -28,7 +28,7 @@
 
 
 # Notable Awards
--President's List 2017 - 2018
+- President's List 2017 - 2018
 - Miracosta College Annual Scholarship Recipient
 
 
