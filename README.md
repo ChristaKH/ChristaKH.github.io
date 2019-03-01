@@ -1,7 +1,6 @@
 # Education
 
 ### Miracosta Community College
-
 *Expected to graduate in 2019 with Associates in Computer Fundamentals*
 *August 2017 - May 2019*
 **GPA: 3.614/4.0**
@@ -19,9 +18,7 @@
 
 
 ### Palomar College
-
 *January 2013 - May 2013*
-
 **GPA: 3.0/4.0**
 
 
