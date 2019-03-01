@@ -10,21 +10,21 @@
 
 **Relevant Coursework:**
 
--Introduction to Computer Science I - Beginning Java (A)
+- Introduction to Computer Science I - Beginning Java (A)
 
--Introduction to Computer Science II - Advanced Java (A)
+- Introduction to Computer Science II - Advanced Java (A)
 
--C++ Programming (A)
+- C++ Programming (A)
 
--C# and the .Net Framework (A)
+- C# and the .Net Framework (A)
 
--Computer Architecture and Assembly Language (B)
+- Computer Architecture and Assembly Language (B)
 
--Data Structures and Algorithms (In Progress)
+- Data Structures and Algorithms (In Progress)
 
--Advanced C++Programming (In Progress)
+- Advanced C++Programming (In Progress)
 
--Mobile Device Application Development (In Progress
+- Mobile Device Application Development (In Progress
 
 
 
