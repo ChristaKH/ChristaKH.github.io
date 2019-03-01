@@ -11,19 +11,12 @@
 **Relevant Coursework:**
 
 - Introduction to Computer Science I - Beginning Java (A)
-
 - Introduction to Computer Science II - Advanced Java (A)
-
 - C++ Programming (A)
-
 - C# and the .Net Framework (A)
-
 - Computer Architecture and Assembly Language (B)
-
 - Data Structures and Algorithms (In Progress)
-
 - Advanced C++Programming (In Progress)
-
 - Mobile Device Application Development (In Progress
 
 
@@ -52,13 +45,10 @@
 
 # Extracurricular
 
--Computer Science Club - Executive Officer
-
--Women in Computer Science Club - Secretary/Event Coordinator
-
--SD Hacks Participant 2018
-
--ACM ICPC Participant 2018
+- Computer Science Club - Executive Officer
+- Women in Computer Science Club - Secretary/Event Coordinator
+- SD Hacks Participant 2018
+- ACM ICPC Participant 2018
 
 
 
